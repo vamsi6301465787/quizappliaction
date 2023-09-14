@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vamsi6301465787/quizappliaction.git/static/css/main.29d68426.css",
+    "main.js": "/vamsi6301465787/quizappliaction.git/static/js/main.c28b5746.js",
+    "static/js/787.2b02cad8.chunk.js": "/vamsi6301465787/quizappliaction.git/static/js/787.2b02cad8.chunk.js",
+    "static/media/bg3.avif": "/vamsi6301465787/quizappliaction.git/static/media/bg3.78158aa1b3ee94c91305.avif",
+    "index.html": "/vamsi6301465787/quizappliaction.git/index.html",
+    "main.29d68426.css.map": "/vamsi6301465787/quizappliaction.git/static/css/main.29d68426.css.map",
+    "main.c28b5746.js.map": "/vamsi6301465787/quizappliaction.git/static/js/main.c28b5746.js.map",
+    "787.2b02cad8.chunk.js.map": "/vamsi6301465787/quizappliaction.git/static/js/787.2b02cad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29d68426.css",
+    "static/js/main.c28b5746.js"
+  ]
+}
